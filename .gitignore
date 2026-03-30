@@ -2,3 +2,4 @@ api_key.txt
 keys/
 *.key
 apple.js
+.env
